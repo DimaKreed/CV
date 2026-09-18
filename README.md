@@ -10,7 +10,7 @@ Currently focused on building scalable backend systems, distributed architecture
 
 <br />
 
-[![View CV](https://img.shields.io/badge/View%20CV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DimaKreed/CV)
+[![View CV](https://img.shields.io/badge/View%20CV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DimaKreed/DimaKreed/blob/main/Dmytro%20Varchuk%20CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytrovarchuk/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DemoAslan)
 
